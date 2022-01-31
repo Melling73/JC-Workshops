@@ -19,7 +19,7 @@
 
 &emsp;&emsp;&emsp;* Journal Club (start from 2/5/2022)<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;每周六晚19：00（北京时间），腾讯会议<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;19:00 Sun. (Beijing time), Tencent Conference  
+&emsp;&emsp;&emsp;&emsp;&emsp;19:00 Sat. (Beijing time), Tencent Conference  
 
 &emsp;&emsp;&emsp;* Lab Workshop (待定)<br/>
 
