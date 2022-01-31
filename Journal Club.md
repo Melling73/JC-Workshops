@@ -3,7 +3,7 @@
 
 * Contact 联系人：
 
-&emsp;&emsp;&emsp;&emsp;Yinlin Meng (Melling1997@163.com)
+&emsp;&emsp;&emsp;&emsp;Yilin Meng (Melling1997@163.com)
 
 * Host 组织者：
 
@@ -30,7 +30,7 @@
 &emsp;&emsp;&emsp;&emsp;Week 1<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;a.A habenula-insular circuit encodes the willingness to act<br/> 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41467-021-26569-1<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Yinlin Meng<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Yilin Meng<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Feb 5 / 2月5日
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;b. <br/> 
