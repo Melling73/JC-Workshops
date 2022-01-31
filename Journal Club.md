@@ -35,7 +35,8 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Feb 5 / 2月5日
 
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;b. Patterns of achievement attribution of Chinese adults and their sociodemographic characteristics and psychological outcomes: A large-sample longitudinal study <br/> 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;b. Patterns of achievement attribution of Chinese adults and their sociodemographic<br/> 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;characteristics and psychological outcomes: A large-sample longitudinal study <br/> 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;DOI：10.1016/j.paid.2021.111230<br/> 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Tangsheng Ma<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Feb 5 / 2月5日
